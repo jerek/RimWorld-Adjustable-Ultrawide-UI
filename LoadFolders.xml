@@ -24,5 +24,6 @@
     <li IfModActive="VanillaExpanded.VPsycastsE">VanillaPsycastsExpanded</li>
     <li IfModActive="GT.Sam.HealthDisplay">HealthDisplay</li>
     <li IfModActive="Fluffy.WorkTab">WorkTab</li>
+    <li IfModActive="ferny.BetterArchitect">BetterArchitectMenu</li>
   </v1.6>
 </loadFolders>
