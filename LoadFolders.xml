@@ -25,5 +25,6 @@
     <li IfModActive="GT.Sam.HealthDisplay">HealthDisplay</li>
     <li IfModActive="Fluffy.WorkTab">WorkTab</li>
     <li IfModActive="ferny.BetterArchitect">BetterArchitectMenu</li>
+    <li IfModActive="A3I.Mods.VRPQ">VanillaResearchPanelQueue</li>
   </v1.6>
 </loadFolders>

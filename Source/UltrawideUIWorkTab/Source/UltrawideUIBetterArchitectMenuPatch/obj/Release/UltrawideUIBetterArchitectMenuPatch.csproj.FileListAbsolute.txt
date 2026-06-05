@@ -1,0 +1,14 @@
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\Source\UltrawideUIBetterArchitectMenuPatch\obj\Release\UltrawideUIBetterArchitectMenuPatch.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\Source\UltrawideUIBetterArchitectMenuPatch\obj\Release\UltrawideUIBetterArchitectMenuPatch.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\Assemblies\UltrawideUIBetterArchitectMenuPatch.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\Assemblies\UltrawideUIBetterArchitectMenuPatch.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\Source\UltrawideUIBetterArchitectMenuPatch\obj\Release\UltrawideUIBetterArchitectMenuPatch.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\Source\UltrawideUIBetterArchitectMenuPatch\obj\Release\UltrawideUIBetterArchitectMenuPatch.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\Source\..BetterArchitectMenu\UltrawideUIBetterArchitectMenuPatch.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\Source\..BetterArchitectMenu\UltrawideUIBetterArchitectMenuPatch.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\BetterArchitectMenu\UltrawideUIBetterArchitectMenuPatch.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\BetterArchitectMenu\UltrawideUIBetterArchitectMenuPatch.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\Assemblies\BetterArchitectMenu\UltrawideUIBetterArchitectMenuPatch.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\Assemblies\BetterArchitectMenu\UltrawideUIBetterArchitectMenuPatch.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\BetterArchitectMenu\Assemblies\UltrawideUIBetterArchitectMenuPatch.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\BetterArchitectMenu\Assemblies\UltrawideUIBetterArchitectMenuPatch.pdb
