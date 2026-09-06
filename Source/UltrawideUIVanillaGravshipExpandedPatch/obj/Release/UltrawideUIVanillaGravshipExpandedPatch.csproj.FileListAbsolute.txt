@@ -1,0 +1,6 @@
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\Source\UltrawideUIVanillaGravshipExpandedPatch\obj\Release\UltrawideUIVanillaGravshipExpandedPatch.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\Source\UltrawideUIVanillaGravshipExpandedPatch\obj\Release\UltrawideUIVanillaGravshipExpandedPatch.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\VanillaGravshipExpanded\Assemblies\UltrawideUIVanillaGravshipExpandedPatch.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\VanillaGravshipExpanded\Assemblies\UltrawideUIVanillaGravshipExpandedPatch.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\Source\UltrawideUIVanillaGravshipExpandedPatch\obj\Release\UltrawideUIVanillaGravshipExpandedPatch.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\Source\UltrawideUIVanillaGravshipExpandedPatch\obj\Release\UltrawideUIVanillaGravshipExpandedPatch.pdb

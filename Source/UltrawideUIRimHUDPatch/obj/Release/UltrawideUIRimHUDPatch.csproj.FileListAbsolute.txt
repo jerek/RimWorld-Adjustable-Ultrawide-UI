@@ -7,3 +7,6 @@ C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\UltrawideUI\Assembli
 C:\Users\okosa\Desktop\RimWorld-Adjustable-Ultrawide-UI-main\RimWorld-Adjustable-Ultrawide-UI-main\Source\UltrawideUIRimHUDPatch\obj\Release\UltrawideUIRimHUDPatch.csproj.AssemblyReference.cache
 C:\Users\okosa\Desktop\RimWorld-Adjustable-Ultrawide-UI-main\RimWorld-Adjustable-Ultrawide-UI-main\Source\UltrawideUIRimHUDPatch\obj\Release\UltrawideUIRimHUDPatch.csproj.CoreCompileInputs.cache
 C:\Users\okosa\Desktop\RimWorld-Adjustable-Ultrawide-UI-main\RimWorld-Adjustable-Ultrawide-UI-main\Source\UltrawideUIRimHUDPatch\obj\Release\UltrawideUIRimHUDPatch.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\Source\UltrawideUIRimHUDPatch\obj\Release\UltrawideUIRimHUDPatch.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\Source\UltrawideUIRimHUDPatch\obj\Release\UltrawideUIRimHUDPatch.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\Source\UltrawideUIRimHUDPatch\obj\Release\UltrawideUIRimHUDPatch.dll

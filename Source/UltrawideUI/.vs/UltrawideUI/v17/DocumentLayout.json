@@ -3,7 +3,20 @@
   "WorkspaceRootPath": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\UltrawideUI\\Source\\UltrawideUI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F08F7414-235F-4459-AC6D-F4F0FC363EE9}|..\\UltrawideUIVanillaGravshipExpandedPatch\\UltrawideUIVanillaGravshipExpandedPatch.csproj|d:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\ultrawideui\\source\\ultrawideuivanillagravshipexpandedpatch\\ultrawideuivanillagravshipexpandedpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E2C4D1E5-AB87-47C4-BB7F-4B983D165982}|..\\UltrawideUIVanillaResearchPanelQueuePatch\\UltrawideUIVanillaResearchPanelQueuePatch.csproj|d:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\ultrawideui\\source\\ultrawideuivanillaresearchpanelqueuepatch\\vanillaresearchpanelqueuepatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EADD89A-4D0A-4F6C-AE66-87FB3F2C9731}|..\\UltrawideUIModernNotificationsPatch\\UltrawideUIModernNotificationsPatch.csproj|d:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\ultrawideui\\source\\ultrawideuimodernnotificationspatch\\modernnotificationspatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD237516-B75C-4C7E-B239-E885855EF35C}|UltrawideUI.csproj|D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\UltrawideUI\\Source\\UltrawideUI\\source\\ultrawideui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD237516-B75C-4C7E-B239-E885855EF35C}|UltrawideUI.csproj|solutionrelative:source\\ultrawideui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CFF440-4C84-4586-9BA3-B022C5AEC1BB}|..\\UltrawideUIBetterArchitectMenuPatch\\UltrawideUIBetterArchitectMenuPatch.csproj|d:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\ultrawideui\\source\\ultrawideuibetterarchitectmenupatch\\ultrawideuibetterarchitectmenupatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,20 +26,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UltrawideUIBetterArchitectMenuPatch.cs",
+              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\UltrawideUI\\Source\\UltrawideUIBetterArchitectMenuPatch\\UltrawideUIBetterArchitectMenuPatch.cs",
+              "RelativeDocumentMoniker": "..\\UltrawideUIBetterArchitectMenuPatch\\UltrawideUIBetterArchitectMenuPatch.cs",
+              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\UltrawideUI\\Source\\UltrawideUIBetterArchitectMenuPatch\\UltrawideUIBetterArchitectMenuPatch.cs",
+              "RelativeToolTip": "..\\UltrawideUIBetterArchitectMenuPatch\\UltrawideUIBetterArchitectMenuPatch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T20:05:34.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UltrawideUIVanillaGravshipExpandedPatch.cs",
+              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\UltrawideUI\\Source\\UltrawideUIVanillaGravshipExpandedPatch\\UltrawideUIVanillaGravshipExpandedPatch.cs",
+              "RelativeDocumentMoniker": "..\\UltrawideUIVanillaGravshipExpandedPatch\\UltrawideUIVanillaGravshipExpandedPatch.cs",
+              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\UltrawideUI\\Source\\UltrawideUIVanillaGravshipExpandedPatch\\UltrawideUIVanillaGravshipExpandedPatch.cs",
+              "RelativeToolTip": "..\\UltrawideUIVanillaGravshipExpandedPatch\\UltrawideUIVanillaGravshipExpandedPatch.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAgwGoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T00:40:44.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UltrawideUI.cs",
+              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\UltrawideUI\\Source\\UltrawideUI\\Source\\UltrawideUI.cs",
+              "RelativeDocumentMoniker": "Source\\UltrawideUI.cs",
+              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\UltrawideUI\\Source\\UltrawideUI\\Source\\UltrawideUI.cs",
+              "RelativeToolTip": "Source\\UltrawideUI.cs",
+              "ViewState": "AQIAAMcCAAAAAAAAAAApwN0CAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T00:10:56.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "VanillaResearchPanelQueuePatch.cs",
               "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\UltrawideUI\\Source\\UltrawideUIVanillaResearchPanelQueuePatch\\VanillaResearchPanelQueuePatch.cs",
               "RelativeDocumentMoniker": "..\\UltrawideUIVanillaResearchPanelQueuePatch\\VanillaResearchPanelQueuePatch.cs",
               "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\UltrawideUI\\Source\\UltrawideUIVanillaResearchPanelQueuePatch\\VanillaResearchPanelQueuePatch.cs",
               "RelativeToolTip": "..\\UltrawideUIVanillaResearchPanelQueuePatch\\VanillaResearchPanelQueuePatch.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAA+AAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T23:25:17.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-05T23:25:17.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModernNotificationsPatch.cs",
+              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\UltrawideUI\\Source\\UltrawideUIModernNotificationsPatch\\ModernNotificationsPatch.cs",
+              "RelativeDocumentMoniker": "..\\UltrawideUIModernNotificationsPatch\\ModernNotificationsPatch.cs",
+              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\UltrawideUI\\Source\\UltrawideUIModernNotificationsPatch\\ModernNotificationsPatch.cs",
+              "RelativeToolTip": "..\\UltrawideUIModernNotificationsPatch\\ModernNotificationsPatch.cs",
+              "ViewState": "AQIAAAUBAAAAAAAAAAAowCgBAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T00:08:04.925Z"
             }
           ]
         }

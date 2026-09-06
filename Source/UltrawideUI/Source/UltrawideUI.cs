@@ -753,5 +753,29 @@ namespace UltrawideUI
                 return codes.AsEnumerable();
             }
         }
+
+        // World search
+        [HarmonyPatch(typeof(RimWorld.Dialog_Search<WorldSearchElement>), "SetInitialSizeAndPosition")]
+        public static class Dialog_Search_SetInitialSizeAndPosition_Patch
+        {
+            static IEnumerable<CodeInstruction> Transpiler(IEnumerable<CodeInstruction> instructions)
+            {
+                var codes = new List<CodeInstruction>(instructions);
+                for (var i = 0; i < codes.Count; i++)
+                {
+                    if (codes[i].opcode == OpCodes.Ldsfld && codes[i].operand is FieldInfo fieldInfo)
+                    {
+                        if (fieldInfo.Name == "screenWidth" && fieldInfo.DeclaringType.FullName == "Verse.UI")
+                        {
+                            codes.Insert(i + 2, new CodeInstruction(OpCodes.Ldsfld, RightMultiplierFieldInfo));
+                            codes.Insert(i + 3, new CodeInstruction(OpCodes.Conv_R4));
+                            codes.Insert(i + 4, new CodeInstruction(OpCodes.Mul));
+                            break;
+                        }
+                    }
+                }
+                return codes.AsEnumerable();
+            }
+        }
     }
 }

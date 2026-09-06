@@ -1,0 +1,10 @@
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\Source\UltrawideUiChooseYourMedicinePatch\obj\Release\UltrawideUiChooseYourMedicinePatch.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\Source\UltrawideUiChooseYourMedicinePatch\obj\Release\UltrawideUiChooseYourMedicinePatch.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\UltrawideUIChooseYourMedicinePatch\Assemblies\UltrawideUiChooseYourMedicinePatch.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\UltrawideUIChooseYourMedicinePatch\Assemblies\UltrawideUiChooseYourMedicinePatch.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\Source\UltrawideUiChooseYourMedicinePatch\obj\Release\UltrawideUiChooseYourMedicinePatch.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\Source\UltrawideUiChooseYourMedicinePatch\obj\Release\UltrawideUiChooseYourMedicinePatch.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\UltrawideUIChooseYourMedicine\Assemblies\UltrawideUiChooseYourMedicinePatch.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\UltrawideUIChooseYourMedicine\Assemblies\UltrawideUiChooseYourMedicinePatch.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\ChooseYourMedicine\Assemblies\UltrawideUiChooseYourMedicinePatch.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\ChooseYourMedicine\Assemblies\UltrawideUiChooseYourMedicinePatch.pdb

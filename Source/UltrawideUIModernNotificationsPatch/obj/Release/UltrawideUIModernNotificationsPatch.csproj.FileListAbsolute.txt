@@ -1,0 +1,10 @@
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\Source\UltrawideUIModernNotificationsPatch\bin\Release\UltrawideUIModernNotificationsPatch.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\Source\UltrawideUIModernNotificationsPatch\bin\Release\UltrawideUIModernNotificationsPatch.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\Source\UltrawideUIModernNotificationsPatch\obj\Release\UltrawideUIModernNotificationsPatch.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\Source\UltrawideUIModernNotificationsPatch\obj\Release\UltrawideUIModernNotificationsPatch.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\Source\UltrawideUIModernNotificationsPatch\obj\Release\UltrawideUIModernNotificationsPatch.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\Source\UltrawideUIModernNotificationsPatch\obj\Release\UltrawideUIModernNotificationsPatch.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\ModernNotifications\Assembies\UltrawideUIModernNotificationsPatch.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\ModernNotifications\Assembies\UltrawideUIModernNotificationsPatch.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\ModernNotifications\Assemblies\UltrawideUIModernNotificationsPatch.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UltrawideUI\ModernNotifications\Assemblies\UltrawideUIModernNotificationsPatch.pdb

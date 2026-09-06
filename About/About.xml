@@ -12,7 +12,7 @@
 
 Icon made by agus raharjo from www.flaticon.com
   </description>
-  <modVersion>1.6.6</modVersion>
+  <modVersion>1.8.0</modVersion>
   <modDependencies>
     <li>
       <packageId>brrainz.harmony</packageId>

@@ -26,5 +26,7 @@
     <li IfModActive="Fluffy.WorkTab">WorkTab</li>
     <li IfModActive="ferny.BetterArchitect">BetterArchitectMenu</li>
     <li IfModActive="A3I.Mods.VRPQ">VanillaResearchPanelQueue</li>
+    <li IfModActive="astryl.ModernNotifications">ModernNotifications</li>
+    <li IfModActive="vanillaexpanded.gravship">VanillaGravshipExpanded</li>
   </v1.6>
 </loadFolders>

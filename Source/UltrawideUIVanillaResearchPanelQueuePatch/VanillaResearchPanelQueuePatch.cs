@@ -1,5 +1,4 @@
 ﻿using HarmonyLib;
-using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
@@ -13,11 +12,9 @@ namespace UltrawideUI
     {
         static VanillaResearchPanelQueuePatch()
         {
-            Log.Message("OscarTest -1");
             var harmony = new Harmony("UltrawideUI.VanillaResearchPanelQueuePatch");
             var assembly = Assembly.GetExecutingAssembly();
             harmony.PatchAll(assembly);
-            Log.Message("OscarTest 0");
         }
 
         [HarmonyPatch(typeof(MainTabWindow_Research_New), "get_InitialSize")]
@@ -25,7 +22,6 @@ namespace UltrawideUI
         {
             static IEnumerable<CodeInstruction> Transpiler(IEnumerable<CodeInstruction> instructions)
             {
-            Log.Message("OscarTest 1");
                 var codes = new List<CodeInstruction>(instructions);
                 for (var i = 0; i < codes.Count; i++)
                 {
@@ -48,7 +44,6 @@ namespace UltrawideUI
         {
             static IEnumerable<CodeInstruction> Transpiler(IEnumerable<CodeInstruction> instructions)
             {
-            Log.Message("OscarTest 2");
                 var codes = new List<CodeInstruction>(instructions);
                 for (var i = 0; i < codes.Count; i++)
                 {
