@@ -658,13 +658,12 @@ namespace UltrawideUI
         }
 
         // Architect info
-        [HarmonyPatch(typeof(RimWorld.ArchitectCategoryTab), "DoInfoBox")]
-        public static class ArchitectCategoryTab_DoInfoBox_Patch
+        [HarmonyPatch(typeof(RimWorld.ArchitectCategoryTab), "get_InfoRect")]
+        public static class InfoRect_Ultrawide_Patch
         {
-            [HarmonyPrefix]
-            public static void Prefix(ref Rect infoRect)
+            public static void Postfix(ref Rect __result)
             {
-                infoRect.x += UI.screenWidth * LeftMultiplier;
+                __result.x += UI.screenWidth * LeftMultiplier;
             }
         }
 
